@@ -27,3 +27,6 @@ body {
 .container .text-muted {
   margin: 20px 0;
 }
+.50width {
+  max-width: 50%;
+}
